@@ -1,0 +1,7 @@
+Analysis:
+
+from our analysis we can conclued that there are 622 cities where only 583 were found with waeather change.
+
+when looking at the scatter plot Lat vs. max temp. we can see that cities that have higher latitude experiences more weather change in their temperature, wind speed, cloudiness and humidity. therefore, their weather can either goes very hat or very cold. 
+
+when comparing the Northern Hemisphere with the Southern Hemisphere; both hemisphere seems to have relation with the latitude and the max temp which means is that the latitude determined the tempature and the temperature is determined by the latitude. on the other hand the cloudiness and the latituded for boths hemisphere seems to have not relation at all between this two factors. 
